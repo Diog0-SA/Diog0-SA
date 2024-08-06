@@ -12,7 +12,7 @@ class SobreMim extends Desenvolvedor {
 
 ```
 ## Tecnologias
-༼ つ ◕_◕ ༽つ Python / Html / Css / Java / SQL
+༼ つ ◕_◕ ༽つ Java / SQL / Html / Css / Python
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diog0-SA&layout=compact&bg_color=33312B&border_color=33312B&title_color=FFB&text_color=FFB)
 
