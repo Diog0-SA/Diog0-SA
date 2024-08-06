@@ -19,4 +19,4 @@ class SobreMim extends Desenvolvedor {
 ## 🚀 Sobre mim
 ✨Sou um estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. 
 
-👩‍💻Estou aprendendo Java no bootcamp santander 2024.
+👩‍💻Estudei Java no bootcamp santander 2024.
