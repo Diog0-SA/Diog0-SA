@@ -4,9 +4,9 @@
 public class Diog0-SA {
 
   public static void main (String[] args) {
-    String nome = "Diogo Silva Almeida";
+    String name = "Diogo Silva Almeida";
     String language = "Java";
-    String faculdade = "análise e desenvolvimento de sistemas - Cruzeiro do sul";
+    String academy = "análise e desenvolvimento de sistemas - Cruzeiro do sul";
     String local = "São Paulo";
   }
 }
